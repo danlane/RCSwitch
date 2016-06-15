@@ -29,7 +29,7 @@
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-#include "RCSwitch.h"
+#include "RCSwitch-bbsb.h"
 #include "spark_wiring_usbserial.h"
 
 #if not defined( RCSwitchDisableReceiving )
