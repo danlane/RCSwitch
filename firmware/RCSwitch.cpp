@@ -287,7 +287,7 @@ char* RCSwitch::getCodeWordA(char* sGroup, char* sDevice, boolean bOn) {
         if (sGroup[i] == '0') {
             sDipSwitches[j++] = 'F';
         } else {
-            sDipSwitches[j++] = '0';
+            sDipSwitches[j++] = '1';
         }
     }
 
